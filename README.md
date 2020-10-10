@@ -1,3 +1,0 @@
-# committee-web-test
-
-test
